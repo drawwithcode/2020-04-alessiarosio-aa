@@ -81,7 +81,6 @@ function updateTextContent() {
 
 
 function draw() {
-
   if (mic) {
     const micLevel = mic.getLevel();
     let d = map(micLevel, 0, 1, 10, 200);
