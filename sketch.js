@@ -1,6 +1,7 @@
 var canvas;
 var changeCanvasColor;
 let mic;
+let img;
 
 var h1;
 var btn;
