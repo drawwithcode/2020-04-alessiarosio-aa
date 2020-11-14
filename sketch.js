@@ -18,7 +18,7 @@ var nm;
 var sliderDimension;
 
 function preload() {
-   img = loadImage("/img/virus.png");
+   img = loadImage("./img/virus.png");
 }
 
 function setup() {
